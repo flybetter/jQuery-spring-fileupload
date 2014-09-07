@@ -1,3 +1,8 @@
+File Upload with jQuery-file-upload plugin and Spring boot.
+-----------------------------------------------------------
 
+should work also in IE 8 thanks to iframe-transport
 
-http://blog.filepicker.io/post/33906205133/hacking-a-file-api-onto-ie8
+[jQuery-file-upload](https://github.com/blueimp/jQuery-File-Upload/wiki)
+
+[Spring Boot](http://projects.spring.io/spring-boot/)
