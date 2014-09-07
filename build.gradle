@@ -29,8 +29,8 @@ idea {
 }
 
 jar {
-  baseName = 'spring-boot-sample-simple'
-  version =  '0.0.0'
+  baseName = 'jQuery-spring-fileupload'
+  version =  '0.1.0'
 }
 
 run {
